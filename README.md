@@ -30,9 +30,9 @@ This architecture is designed to ensure high availability, security, and efficie
 
 
 ## 🔒 Security Enhancements
-✅ **Private Subnet for Database & Processing** → Protects critical data from external threats.
-✅ **AWS Cognito with MFA** → Ensures secure authentication.
-✅ **AWS KMS Encryption** → Encrypts RDS and S3 data.
+✅ **Private Subnet for Database & Processing** → Protects critical data from external threats.  
+✅ **AWS Cognito with MFA** → Ensures secure authentication.  
+✅ **AWS KMS Encryption** → Encrypts RDS and S3 data.  
 
 
 ## ⚡ Benefits of This Cloud Solution
